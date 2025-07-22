@@ -13,3 +13,6 @@ reference book git:  https://github.com/Apress/pro-vue-js-2
 Veutify   https://vuetifyjs.com/
 Give you a good insight into the levels of support for an extensive set of apis and related features  https://caniuse.com/   
 
+# Google Sheets
+https://www.geeksforgeeks.org/blogs/google-sheets-tutorial/
+

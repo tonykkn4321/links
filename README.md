@@ -16,3 +16,6 @@ Give you a good insight into the levels of support for an extensive set of apis 
 # Google Sheets
 https://www.geeksforgeeks.org/blogs/google-sheets-tutorial/
 
+# Seaborn
+https://seaborn.pydata.org/
+

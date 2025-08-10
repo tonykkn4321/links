@@ -3,6 +3,7 @@ Car project:   https://car-project-group.netlify.app/
 ERB-frontend-assignment:  https://erb-frontend-assignment-kwongkainang.netlify.app/
 
 # Own projects:
+Front-end-page-for-API-endpoint-testing:  https://front-end-page-for-api-endpoint-test.netlify.app/
 To-do-list(Vue):  https://to-do-list-vueapp.netlify.app/
 
 # GitHub Pages:

@@ -1,5 +1,10 @@
 # Railway  https://github.com/railwayapp-templates
 Django https://github.com/railwayapp-templates/django
+Django Conductor  https://github.com/zyltr/django-conductor
+Django Monolith  https://github.com/unicodeveloper/deploy-django-on-railway
+Django with Volume Support https://github.com/railwayapp-templates/django-volume
+Django, Celery, Redis & Postgres https://github.com/Antvirf/railway_django_stack
+Django Postgres + allauth + landing page  https://github.com/CuteLoop/railway-template-django-postgres-starter
 Flask  https://github.com/railwayapp-templates/flask
 FastAPI  https://github.com/railwayapp-templates/fastapi
 Vue3  https://github.com/railwayapp-templates/vue-starter
